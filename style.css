@@ -1,0 +1,48 @@
+.corpo{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 80px;
+    top: 50px
+   
+}
+
+.principal{
+margin-left: 100px
+
+}
+.principal h1{
+margin-left: 100px;
+margin-bottom: 50px;
+}
+.barralateral{
+    flex-direction: column;
+}
+.barralateral li{
+    padding-bottom: 50px;
+    list-style: none;
+}
+
+.imglegal{
+    height: 200px;
+    width: 200px;
+    padding-left: 10px;
+    
+}
+.linha{
+    padding-left:100px;
+    margin-bottom:50px;   
+}
+
+.expind{
+    font-weight:bold;
+    font-size: small;
+    color: rgb(78, 66, 0)
+}
+.exp{
+    color: rgb(255, 0, 217);
+    font-size: smaller
+}
+.exp a{
+    color: rgb(255, 0, 217);
+    font-size: smaller
+}
